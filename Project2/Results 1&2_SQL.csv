@@ -1,0 +1,19 @@
+1. PROFIT BY CATEGORY,,,,,,,,,,2. PROFIT BY SUB-CATEGORY,,,,
+Category,Total_Sales,Total_Profit,Profit_Margin_Percent,,,,,,,Category,Sub_Category,Total_Sales,Total_Profit,Profit_Margin_Percent
+Furniture,196907.1034,6901.165724,3.5,,,,,,,Office Supplies,Supplies,11673.05985,-1001.094112,-8.58
+Office Supplies,167259.2853,27567.20428,16.48,,,,,,,Furniture,Tables,54604.17915,-3799.065029,-6.96
+Technology,250715.4385,49459.93706,19.73,,,,,,,Furniture,Bookcases,31639.07211,-568.3954821,-1.8
+,,,,,,,,,,Technology,Machines,73444.75713,5886.827673,8.02
+,,,,,,,,,,Office Supplies,Appliances,28118.00385,2542.049536,9.04
+,,,,,,,,,,Furniture,Furnishings,22122.08393,2202.703522,9.96
+,,,,,,,,,,Furniture,Chairs,88541.76823,9065.922714,10.24
+,,,,,,,,,,Office Supplies,Storage,52768.31986,6617.599978,12.54
+,,,,,,,,,,Technology,Phones,85525.61028,12610.31175,14.74
+,,,,,,,,,,Office Supplies,Binders,39432.1237,6027.401631,15.29
+,,,,,,,,,,Office Supplies,Art,8026.866057,1714.176184,21.36
+,,,,,,,,,,Office Supplies,Fasteners,792.0479987,185.912,23.47
+,,,,,,,,,,Technology,Accessories,45775.66398,12312.01093,26.9
+,,,,,,,,,,Technology,Copiers,45969.4071,18650.78671,40.57
+,,,,,,,,,,Office Supplies,Envelopes,3709.393996,1554.56619,41.91
+,,,,,,,,,,Office Supplies,Labels,3419.972004,1460.537095,42.71
+,,,,,,,,,,Office Supplies,Paper,19319.49799,8466.055777,43.82
